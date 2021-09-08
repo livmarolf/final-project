@@ -1,9 +1,9 @@
 const MOMENTUM = {
-    UP: -0.5, // Rate at which the blocks rise
-    DOWN: 0.5, // The fallrate of the player
-    LEFT: -2, // Player's left strafe rate
-    RIGHT: 2, // Player's right strafe rate
-  };
+  UP: -1.5, // Rate at which the blocks rise
+  DOWN: 3.5, // The fallrate of the player
+  LEFT: -2, // Player's left strafe rate
+  RIGHT: 2, // Player's right strafe rate
+};
   
   const GAME_BORDER = 2;
   
